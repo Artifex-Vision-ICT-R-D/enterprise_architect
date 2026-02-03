@@ -84,6 +84,9 @@ Details zu jeder Phase befinden sich im Ordner **`00_roadmap/`**.
 - **[ADR Template](07_architecture_decision_records/adr_template.md)** - Architecture Decision Records
 - **[ADR Beispiel](07_architecture_decision_records/adr_001_identity_provider.md)** - Keycloak als Identity Provider
 
+### 🛠️ Tools & Methoden
+- **[Multi-Boot Guide: Macbook M Chip](09_tools_and_methods/macbook_m_chip_multi_boot_asahi_linux.md)** - Dual-/Triple-Boot mit Asahi Linux
+
 ---
 
 ## 🗂️ Repository-Struktur
@@ -124,6 +127,7 @@ enterprise-architect-roadmap/
 │
 ├── 08_case_studies/                   # Case Studies
 ├── 09_tools_and_methods/              # Tools & Methoden
+│   └── macbook_m_chip_multi_boot_asahi_linux.md  # Multi-Boot Guide für Macbook M Chip
 ├── 10_salary_and_career/              # Gehalt & Karriere
 │   └── salary_benchmarks.md           # D-A-CH-FL Gehaltsbenchmarks
 │
