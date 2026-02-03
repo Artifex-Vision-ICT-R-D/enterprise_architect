@@ -1,0 +1,24 @@
+# Learning Agent Progress (personal data)
+togaf_learning_progress.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Personal notes (optional - remove this line if you want to commit notes)
+# personal_notes/
