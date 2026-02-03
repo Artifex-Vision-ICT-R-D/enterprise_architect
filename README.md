@@ -85,6 +85,7 @@ Details zu jeder Phase befinden sich im Ordner **`00_roadmap/`**.
 - **[ADR Beispiel](07_architecture_decision_records/adr_001_identity_provider.md)** - Keycloak als Identity Provider
 
 ### 🛠️ Tools & Methoden
+- **[TOGAF Learning Agent](09_tools_and_methods/togaf_learning_agent.py)** - Interaktiver Lernagent für TOGAF EA (AuDHD-optimiert)
 - **[Multi-Boot Guide: Macbook M Chip](09_tools_and_methods/macbook_m_chip_multi_boot_asahi_linux.md)** - Dual-/Triple-Boot mit Asahi Linux
 
 ---
